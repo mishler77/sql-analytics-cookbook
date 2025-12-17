@@ -12,11 +12,10 @@ This repo includes:
 - `schema/` — table definitions (DDL)
 - `seed/` — insert statements to populate sample data
 - `queries/` — example queries (SELECTs)
-- `results/` — optional: screenshots/exports of query outputs (not required)
+- `results/` — screenshots/exports of query outputs
 
 ## Quickstart
 
-### Option A: Command line (recommended)
 From the repo root:
 
 ```bash
