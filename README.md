@@ -25,6 +25,7 @@ sqlite3 cookbook.db < seed/02_insert_seed_data.sql
 
 # Run a query
 sqlite3 -header -column cookbook.db < queries/01_basic_select.sql
+```
 
 ## Example output
 
